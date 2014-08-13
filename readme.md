@@ -1,7 +1,7 @@
 Just A Quickie
 ==============
 
-Need a small framework*(if you could call it that)* to try out a peace of code or an idea offline, or maybe just to show someone how to do something?
+Need a small framework *(if you could call it that)* to try out a peace of code or an idea offline, or maybe just to show someone how to do something?
 
 I know what your saying, there's [codepen](http://codepen.io/), [jsfiddle](http://jsfiddle.net/) and many other sites that accomplish this and do it well.  I use [codepen](http://codepen.io/danferth/) all the time and love it!  So why create this?
 
