@@ -25,8 +25,8 @@ offline use & `PHP`..... nuff said.
 ###Prerequisites
 
 - text editor
-- ruby & compass installed *(or just use the `.css` file and right normal css)*
-- Idea or test burning a hole in your brain **required**
+- ruby & compass installed *(or just use the `.css` file and wright normal css)*
+- Idea or test burning a hole in your brain ***required***
 
 ##What on earth would you use this for?
 
