@@ -3,6 +3,10 @@ Just A Quickie
 
 Need a small framework *(if you could call it that)* to try out a peace of code or an idea offline, or maybe just to show someone how to do something?
 
+Sometimes I have the need to open Sublime and start testing a bit of code or experiment with a function I just read about.  So open Sublime, start coding..... shit, I need jQuery on this.......link to google CDN....back to playing around....you know what? This would look better if there was just a tad bit of css, but I want to be lazy and use scss....copy/paste config.rb to start compass......
+
+So sometimes I spend more time adding libraries and linking css and getting compass going and I feel frustrated and just want something small easy and ready to go.  Oh and be able to use `PHP` as well.
+
 I know what your saying, there's [codepen](http://codepen.io/), [jsfiddle](http://jsfiddle.net/) and many other sites that accomplish this and do it well.  I use [codepen](http://codepen.io/danferth/) all the time and love it!  So why create this?
 
 offline use & `PHP`..... nuff said.
