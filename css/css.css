@@ -2,21 +2,21 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  src: local("Open Sans Light"), local("OpenSans-Light"), url(/fonts/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format("woff2"), url(/fonts/v9/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format("woff");
+  src: local("Open Sans Light"), local("OpenSans-Light"), url(/fonts/open-sans/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format("woff2"), url(/fonts/open-sans/v9/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local("Open Sans"), local("OpenSans"), url(/fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format("woff2"), url(/fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format("woff");
+  src: local("Open Sans"), local("OpenSans"), url(/fonts/open-sans/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format("woff2"), url(/fonts/open-sans/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 800;
-  src: local("Open Sans Extrabold"), local("OpenSans-Extrabold"), url(/fonts/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2"), url(/fonts/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff) format("woff");
+  src: local("Open Sans Extrabold"), local("OpenSans-Extrabold"), url(/fonts/open-sans/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2"), url(/fonts/open-sans/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff) format("woff");
 }
 
 /* Open Sans 300(light),400(regular),800(heavy) */
@@ -30,4 +30,50 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
+}
+
+/* line 15, css.scss */
+body {
+  padding: 100px 50px;
+  background: white;
+}
+
+/* line 19, css.scss */
+.box {
+  width: 100px;
+  height: 114px;
+  display: inline-block;
+  position: relative;
+  margin-right: 5px;
+}
+/* line 25, css.scss */
+.box .color {
+  width: 100px;
+  height: 14px;
+  background: white;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: center;
+  font: 300 10px/14px 'open sans', sans-serif;
+  color: #404040;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* line 40, css.scss */
+.wrap:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 47, css.scss */
+.replace {
+  margin-left: 75px;
+}
+
+/* line 50, css.scss */
+h6 {
+  margin-left: 75px;
 }
