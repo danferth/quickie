@@ -17,3 +17,15 @@
 
 
 <?php include 'foot.php'; ?>
+
+<!-- 
+
+USING SVG ICONS
+
+check svg-icons.html for viewbox setting for various icons
+
+<svg class="icon icon-calendar" viewBox="0 0 30 32">
+	<use xlink:href="/icons.svg#icon-star"></use>
+</svg> 
+
+-->
