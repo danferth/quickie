@@ -25,7 +25,7 @@ offline use & `PHP`..... nuff said.
 - [Open Sans](https://www.google.com/fonts) *added in 300,400,800 weights*
 - [jquery v2.1.1](http://jquery.com/)
 - [prefixfree](http://leaverou.github.io/prefixfree/) added as well
-- [Font Awesome](http://fontawesome.io/) *added the custom scss option*
+- [Font Awesome svg](https://icomoon.io/#home) from icoMoon for icons at the ready
 
 ###Prerequisites
 
