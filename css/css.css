@@ -19,61 +19,2233 @@
   src: local("Open Sans Extrabold"), local("OpenSans-Extrabold"), url(/fonts/open-sans/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2"), url(/fonts/open-sans/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff) format("woff");
 }
 
+/* line 1, _svg.scss */
+.icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  fill: currentColor;
+}
+
+/* line 7, _svg.scss */
+.icon-glass {
+  /*fill: #000000;*/
+  width: 39px;
+}
+
+/* line 11, _svg.scss */
+.icon-music {
+  /*fill: #000000;*/
+  width: 35px;
+}
+
+/* line 15, _svg.scss */
+.icon-search {
+  /*fill: #000000;*/
+  width: 37px;
+}
+
+/* line 19, _svg.scss */
+.icon-envelope-o {
+  /*fill: #000000;*/
+  width: 34px;
+}
+
+/* line 23, _svg.scss */
+.icon-heart {
+  /*fill: #000000;*/
+  width: 34px;
+}
+
+/* line 27, _svg.scss */
+.icon-star {
+  /*fill: #000000;*/
+  width: 41px;
+}
+
+/* line 31, _svg.scss */
+.icon-star-o {
+  /*fill: #000000;*/
+  width: 41px;
+}
+
+/* line 35, _svg.scss */
+.icon-user {
+  /*fill: #000000;*/
+  width: 34px;
+}
+
+/* line 39, _svg.scss */
+.icon-film {
+  /*fill: #000000;*/
+  width: 34px;
+}
+
+/* line 43, _svg.scss */
+.icon-th-large {
+  /*fill: #000000;*/
+  width: 35px;
+}
+
+/* line 47, _svg.scss */
+.icon-th {
+  /*fill: #000000;*/
+  width: 41px;
+}
+
+/* line 51, _svg.scss */
+.icon-th-list {
+  /*fill: #000000;*/
+  width: 37px;
+}
+
+/* line 55, _svg.scss */
+.icon-check {
+  /*fill: #000000;*/
+  width: 37px;
+}
+
+/* line 59, _svg.scss */
+.icon-times {
+  /*fill: #000000;*/
+  width: 37px;
+}
+
+/* line 63, _svg.scss */
+.icon-search-plus {
+  /*fill: #000000;*/
+  width: 37px;
+}
+
+/* line 67, _svg.scss */
+.icon-search-minus {
+  /*fill: #000000;*/
+}
+
+/* line 70, _svg.scss */
+.icon-power-off {
+  /*fill: #000000;*/
+}
+
+/* line 73, _svg.scss */
+.icon-signal {
+  /*fill: #000000;*/
+}
+
+/* line 76, _svg.scss */
+.icon-gear {
+  /*fill: #000000;*/
+}
+
+/* line 79, _svg.scss */
+.icon-trash-o {
+  /*fill: #000000;*/
+}
+
+/* line 82, _svg.scss */
+.icon-home {
+  /*fill: #000000;*/
+}
+
+/* line 85, _svg.scss */
+.icon-file-o {
+  /*fill: #000000;*/
+}
+
+/* line 88, _svg.scss */
+.icon-clock-o {
+  /*fill: #000000;*/
+}
+
+/* line 91, _svg.scss */
+.icon-road {
+  /*fill: #000000;*/
+}
+
+/* line 94, _svg.scss */
+.icon-download {
+  /*fill: #000000;*/
+}
+
+/* line 97, _svg.scss */
+.icon-arrow-circle-o-down {
+  /*fill: #000000;*/
+}
+
+/* line 100, _svg.scss */
+.icon-arrow-circle-o-up {
+  /*fill: #000000;*/
+}
+
+/* line 103, _svg.scss */
+.icon-inbox {
+  /*fill: #000000;*/
+}
+
+/* line 106, _svg.scss */
+.icon-play-circle-o {
+  /*fill: #000000;*/
+}
+
+/* line 109, _svg.scss */
+.icon-rotate-right {
+  /*fill: #000000;*/
+}
+
+/* line 112, _svg.scss */
+.icon-refresh {
+  /*fill: #000000;*/
+}
+
+/* line 115, _svg.scss */
+.icon-list-alt {
+  /*fill: #000000;*/
+}
+
+/* line 118, _svg.scss */
+.icon-lock {
+  /*fill: #000000;*/
+}
+
+/* line 121, _svg.scss */
+.icon-flag {
+  /*fill: #000000;*/
+}
+
+/* line 124, _svg.scss */
+.icon-headphones {
+  /*fill: #000000;*/
+}
+
+/* line 127, _svg.scss */
+.icon-volume-off {
+  /*fill: #000000;*/
+}
+
+/* line 130, _svg.scss */
+.icon-volume-down {
+  /*fill: #000000;*/
+}
+
+/* line 133, _svg.scss */
+.icon-volume-up {
+  /*fill: #000000;*/
+}
+
+/* line 136, _svg.scss */
+.icon-qrcode {
+  /*fill: #000000;*/
+}
+
+/* line 139, _svg.scss */
+.icon-barcode {
+  /*fill: #000000;*/
+}
+
+/* line 142, _svg.scss */
+.icon-tag {
+  /*fill: #000000;*/
+}
+
+/* line 145, _svg.scss */
+.icon-tags {
+  /*fill: #000000;*/
+}
+
+/* line 148, _svg.scss */
+.icon-book {
+  /*fill: #000000;*/
+}
+
+/* line 151, _svg.scss */
+.icon-bookmark {
+  /*fill: #000000;*/
+}
+
+/* line 154, _svg.scss */
+.icon-print {
+  /*fill: #000000;*/
+}
+
+/* line 157, _svg.scss */
+.icon-camera {
+  /*fill: #000000;*/
+}
+
+/* line 160, _svg.scss */
+.icon-font {
+  /*fill: #000000;*/
+}
+
+/* line 163, _svg.scss */
+.icon-bold {
+  /*fill: #000000;*/
+}
+
+/* line 166, _svg.scss */
+.icon-italic {
+  /*fill: #000000;*/
+}
+
+/* line 169, _svg.scss */
+.icon-text-height {
+  /*fill: #000000;*/
+}
+
+/* line 172, _svg.scss */
+.icon-text-width {
+  /*fill: #000000;*/
+}
+
+/* line 175, _svg.scss */
+.icon-align-left {
+  /*fill: #000000;*/
+}
+
+/* line 178, _svg.scss */
+.icon-align-center {
+  /*fill: #000000;*/
+}
+
+/* line 181, _svg.scss */
+.icon-align-right {
+  /*fill: #000000;*/
+}
+
+/* line 184, _svg.scss */
+.icon-align-justify {
+  /*fill: #000000;*/
+}
+
+/* line 187, _svg.scss */
+.icon-list {
+  /*fill: #000000;*/
+}
+
+/* line 190, _svg.scss */
+.icon-dedent {
+  /*fill: #000000;*/
+}
+
+/* line 193, _svg.scss */
+.icon-indent {
+  /*fill: #000000;*/
+}
+
+/* line 196, _svg.scss */
+.icon-video-camera {
+  /*fill: #000000;*/
+}
+
+/* line 199, _svg.scss */
+.icon-photo {
+  /*fill: #000000;*/
+}
+
+/* line 202, _svg.scss */
+.icon-pencil {
+  /*fill: #000000;*/
+}
+
+/* line 205, _svg.scss */
+.icon-map-marker {
+  /*fill: #000000;*/
+}
+
+/* line 208, _svg.scss */
+.icon-adjust {
+  /*fill: #000000;*/
+}
+
+/* line 211, _svg.scss */
+.icon-tint {
+  /*fill: #000000;*/
+}
+
+/* line 214, _svg.scss */
+.icon-edit {
+  /*fill: #000000;*/
+}
+
+/* line 217, _svg.scss */
+.icon-share-square-o {
+  /*fill: #000000;*/
+}
+
+/* line 220, _svg.scss */
+.icon-check-square-o {
+  /*fill: #000000;*/
+}
+
+/* line 223, _svg.scss */
+.icon-arrows {
+  /*fill: #000000;*/
+}
+
+/* line 226, _svg.scss */
+.icon-step-backward {
+  /*fill: #000000;*/
+}
+
+/* line 229, _svg.scss */
+.icon-fast-backward {
+  /*fill: #000000;*/
+}
+
+/* line 232, _svg.scss */
+.icon-backward {
+  /*fill: #000000;*/
+}
+
+/* line 235, _svg.scss */
+.icon-play {
+  /*fill: #000000;*/
+}
+
+/* line 238, _svg.scss */
+.icon-pause {
+  /*fill: #000000;*/
+}
+
+/* line 241, _svg.scss */
+.icon-stop {
+  /*fill: #000000;*/
+}
+
+/* line 244, _svg.scss */
+.icon-forward {
+  /*fill: #000000;*/
+}
+
+/* line 247, _svg.scss */
+.icon-fast-forward {
+  /*fill: #000000;*/
+}
+
+/* line 250, _svg.scss */
+.icon-step-forward {
+  /*fill: #000000;*/
+}
+
+/* line 253, _svg.scss */
+.icon-eject {
+  /*fill: #000000;*/
+}
+
+/* line 256, _svg.scss */
+.icon-chevron-left {
+  /*fill: #000000;*/
+}
+
+/* line 259, _svg.scss */
+.icon-chevron-right {
+  /*fill: #000000;*/
+}
+
+/* line 262, _svg.scss */
+.icon-plus-circle {
+  /*fill: #000000;*/
+}
+
+/* line 265, _svg.scss */
+.icon-minus-circle {
+  /*fill: #000000;*/
+}
+
+/* line 268, _svg.scss */
+.icon-times-circle {
+  /*fill: #000000;*/
+}
+
+/* line 271, _svg.scss */
+.icon-check-circle {
+  /*fill: #000000;*/
+}
+
+/* line 274, _svg.scss */
+.icon-question-circle {
+  /*fill: #000000;*/
+}
+
+/* line 277, _svg.scss */
+.icon-info-circle {
+  /*fill: #000000;*/
+}
+
+/* line 280, _svg.scss */
+.icon-crosshairs {
+  /*fill: #000000;*/
+}
+
+/* line 283, _svg.scss */
+.icon-times-circle-o {
+  /*fill: #000000;*/
+}
+
+/* line 286, _svg.scss */
+.icon-check-circle-o {
+  /*fill: #000000;*/
+}
+
+/* line 289, _svg.scss */
+.icon-ban {
+  /*fill: #000000;*/
+}
+
+/* line 292, _svg.scss */
+.icon-arrow-left {
+  /*fill: #000000;*/
+}
+
+/* line 295, _svg.scss */
+.icon-arrow-right {
+  /*fill: #000000;*/
+}
+
+/* line 298, _svg.scss */
+.icon-arrow-up {
+  /*fill: #000000;*/
+}
+
+/* line 301, _svg.scss */
+.icon-arrow-down {
+  /*fill: #000000;*/
+}
+
+/* line 304, _svg.scss */
+.icon-mail-forward {
+  /*fill: #000000;*/
+}
+
+/* line 307, _svg.scss */
+.icon-expand {
+  /*fill: #000000;*/
+}
+
+/* line 310, _svg.scss */
+.icon-compress {
+  /*fill: #000000;*/
+}
+
+/* line 313, _svg.scss */
+.icon-plus {
+  /*fill: #000000;*/
+}
+
+/* line 316, _svg.scss */
+.icon-minus {
+  /*fill: #000000;*/
+}
+
+/* line 319, _svg.scss */
+.icon-asterisk {
+  /*fill: #000000;*/
+}
+
+/* line 322, _svg.scss */
+.icon-exclamation-circle {
+  /*fill: #000000;*/
+}
+
+/* line 325, _svg.scss */
+.icon-gift {
+  /*fill: #000000;*/
+}
+
+/* line 328, _svg.scss */
+.icon-leaf {
+  /*fill: #000000;*/
+}
+
+/* line 331, _svg.scss */
+.icon-fire {
+  /*fill: #000000;*/
+}
+
+/* line 334, _svg.scss */
+.icon-eye {
+  /*fill: #000000;*/
+}
+
+/* line 337, _svg.scss */
+.icon-eye-slash {
+  /*fill: #000000;*/
+}
+
+/* line 340, _svg.scss */
+.icon-warning {
+  /*fill: #000000;*/
+}
+
+/* line 343, _svg.scss */
+.icon-plane {
+  /*fill: #000000;*/
+}
+
+/* line 346, _svg.scss */
+.icon-calendar {
+  /*fill: #000000;*/
+}
+
+/* line 349, _svg.scss */
+.icon-random {
+  /*fill: #000000;*/
+}
+
+/* line 352, _svg.scss */
+.icon-comment {
+  /*fill: #000000;*/
+}
+
+/* line 355, _svg.scss */
+.icon-magnet {
+  /*fill: #000000;*/
+}
+
+/* line 358, _svg.scss */
+.icon-chevron-up {
+  /*fill: #000000;*/
+}
+
+/* line 361, _svg.scss */
+.icon-chevron-down {
+  /*fill: #000000;*/
+}
+
+/* line 364, _svg.scss */
+.icon-retweet {
+  /*fill: #000000;*/
+}
+
+/* line 367, _svg.scss */
+.icon-shopping-cart {
+  /*fill: #000000;*/
+}
+
+/* line 370, _svg.scss */
+.icon-folder {
+  /*fill: #000000;*/
+}
+
+/* line 373, _svg.scss */
+.icon-folder-open {
+  /*fill: #000000;*/
+}
+
+/* line 376, _svg.scss */
+.icon-arrows-v {
+  /*fill: #000000;*/
+}
+
+/* line 379, _svg.scss */
+.icon-arrows-h {
+  /*fill: #000000;*/
+}
+
+/* line 382, _svg.scss */
+.icon-bar-chart-o {
+  /*fill: #000000;*/
+}
+
+/* line 385, _svg.scss */
+.icon-twitter-square {
+  /*fill: #000000;*/
+}
+
+/* line 388, _svg.scss */
+.icon-facebook-square {
+  /*fill: #000000;*/
+}
+
+/* line 391, _svg.scss */
+.icon-camera-retro {
+  /*fill: #000000;*/
+}
+
+/* line 394, _svg.scss */
+.icon-key {
+  /*fill: #000000;*/
+}
+
+/* line 397, _svg.scss */
+.icon-gears {
+  /*fill: #000000;*/
+}
+
+/* line 400, _svg.scss */
+.icon-comments {
+  /*fill: #000000;*/
+}
+
+/* line 403, _svg.scss */
+.icon-thumbs-o-up {
+  /*fill: #000000;*/
+}
+
+/* line 406, _svg.scss */
+.icon-thumbs-o-down {
+  /*fill: #000000;*/
+}
+
+/* line 409, _svg.scss */
+.icon-star-half {
+  /*fill: #000000;*/
+}
+
+/* line 412, _svg.scss */
+.icon-heart-o {
+  /*fill: #000000;*/
+}
+
+/* line 415, _svg.scss */
+.icon-sign-out {
+  /*fill: #000000;*/
+}
+
+/* line 418, _svg.scss */
+.icon-linkedin-square {
+  /*fill: #000000;*/
+}
+
+/* line 421, _svg.scss */
+.icon-thumb-tack {
+  /*fill: #000000;*/
+}
+
+/* line 424, _svg.scss */
+.icon-external-link {
+  /*fill: #000000;*/
+}
+
+/* line 427, _svg.scss */
+.icon-sign-in {
+  /*fill: #000000;*/
+}
+
+/* line 430, _svg.scss */
+.icon-trophy {
+  /*fill: #000000;*/
+}
+
+/* line 433, _svg.scss */
+.icon-github-square {
+  /*fill: #000000;*/
+}
+
+/* line 436, _svg.scss */
+.icon-upload {
+  /*fill: #000000;*/
+}
+
+/* line 439, _svg.scss */
+.icon-lemon-o {
+  /*fill: #000000;*/
+}
+
+/* line 442, _svg.scss */
+.icon-phone {
+  /*fill: #000000;*/
+}
+
+/* line 445, _svg.scss */
+.icon-square-o {
+  /*fill: #000000;*/
+}
+
+/* line 448, _svg.scss */
+.icon-bookmark-o {
+  /*fill: #000000;*/
+}
+
+/* line 451, _svg.scss */
+.icon-phone-square {
+  /*fill: #000000;*/
+}
+
+/* line 454, _svg.scss */
+.icon-twitter {
+  /*fill: #000000;*/
+}
+
+/* line 457, _svg.scss */
+.icon-facebook {
+  /*fill: #000000;*/
+}
+
+/* line 460, _svg.scss */
+.icon-github {
+  /*fill: #000000;*/
+}
+
+/* line 463, _svg.scss */
+.icon-unlock {
+  /*fill: #000000;*/
+}
+
+/* line 466, _svg.scss */
+.icon-credit-card {
+  /*fill: #000000;*/
+}
+
+/* line 469, _svg.scss */
+.icon-rss {
+  /*fill: #000000;*/
+}
+
+/* line 472, _svg.scss */
+.icon-hdd-o {
+  /*fill: #000000;*/
+}
+
+/* line 475, _svg.scss */
+.icon-bullhorn {
+  /*fill: #000000;*/
+}
+
+/* line 478, _svg.scss */
+.icon-bell-o {
+  /*fill: #000000;*/
+}
+
+/* line 481, _svg.scss */
+.icon-certificate {
+  /*fill: #000000;*/
+}
+
+/* line 484, _svg.scss */
+.icon-hand-o-right {
+  /*fill: #000000;*/
+}
+
+/* line 487, _svg.scss */
+.icon-hand-o-left {
+  /*fill: #000000;*/
+}
+
+/* line 490, _svg.scss */
+.icon-hand-o-up {
+  /*fill: #000000;*/
+}
+
+/* line 493, _svg.scss */
+.icon-hand-o-down {
+  /*fill: #000000;*/
+}
+
+/* line 496, _svg.scss */
+.icon-arrow-circle-left {
+  /*fill: #000000;*/
+}
+
+/* line 499, _svg.scss */
+.icon-arrow-circle-right {
+  /*fill: #000000;*/
+}
+
+/* line 502, _svg.scss */
+.icon-arrow-circle-up {
+  /*fill: #000000;*/
+}
+
+/* line 505, _svg.scss */
+.icon-arrow-circle-down {
+  /*fill: #000000;*/
+}
+
+/* line 508, _svg.scss */
+.icon-globe {
+  /*fill: #000000;*/
+}
+
+/* line 511, _svg.scss */
+.icon-wrench {
+  /*fill: #000000;*/
+}
+
+/* line 514, _svg.scss */
+.icon-tasks {
+  /*fill: #000000;*/
+}
+
+/* line 517, _svg.scss */
+.icon-filter {
+  /*fill: #000000;*/
+}
+
+/* line 520, _svg.scss */
+.icon-briefcase {
+  /*fill: #000000;*/
+}
+
+/* line 523, _svg.scss */
+.icon-arrows-alt {
+  /*fill: #000000;*/
+}
+
+/* line 526, _svg.scss */
+.icon-group {
+  /*fill: #000000;*/
+}
+
+/* line 529, _svg.scss */
+.icon-chain {
+  /*fill: #000000;*/
+}
+
+/* line 532, _svg.scss */
+.icon-cloud {
+  /*fill: #000000;*/
+}
+
+/* line 535, _svg.scss */
+.icon-flask {
+  /*fill: #000000;*/
+}
+
+/* line 538, _svg.scss */
+.icon-cut {
+  /*fill: #000000;*/
+}
+
+/* line 541, _svg.scss */
+.icon-copy {
+  /*fill: #000000;*/
+}
+
+/* line 544, _svg.scss */
+.icon-paperclip {
+  /*fill: #000000;*/
+}
+
+/* line 547, _svg.scss */
+.icon-save {
+  /*fill: #000000;*/
+}
+
+/* line 550, _svg.scss */
+.icon-square {
+  /*fill: #000000;*/
+}
+
+/* line 553, _svg.scss */
+.icon-navicon {
+  /*fill: #000000;*/
+}
+
+/* line 556, _svg.scss */
+.icon-list-ul {
+  /*fill: #000000;*/
+}
+
+/* line 559, _svg.scss */
+.icon-list-ol {
+  /*fill: #000000;*/
+}
+
+/* line 562, _svg.scss */
+.icon-strikethrough {
+  /*fill: #000000;*/
+}
+
+/* line 565, _svg.scss */
+.icon-underline {
+  /*fill: #000000;*/
+}
+
+/* line 568, _svg.scss */
+.icon-table {
+  /*fill: #000000;*/
+}
+
+/* line 571, _svg.scss */
+.icon-magic {
+  /*fill: #000000;*/
+}
+
+/* line 574, _svg.scss */
+.icon-truck {
+  /*fill: #000000;*/
+}
+
+/* line 577, _svg.scss */
+.icon-pinterest {
+  /*fill: #000000;*/
+}
+
+/* line 580, _svg.scss */
+.icon-pinterest-square {
+  /*fill: #000000;*/
+}
+
+/* line 583, _svg.scss */
+.icon-google-plus-square {
+  /*fill: #000000;*/
+}
+
+/* line 586, _svg.scss */
+.icon-google-plus {
+  /*fill: #000000;*/
+}
+
+/* line 589, _svg.scss */
+.icon-money {
+  /*fill: #000000;*/
+}
+
+/* line 592, _svg.scss */
+.icon-caret-down {
+  /*fill: #000000;*/
+}
+
+/* line 595, _svg.scss */
+.icon-caret-up {
+  /*fill: #000000;*/
+}
+
+/* line 598, _svg.scss */
+.icon-caret-left {
+  /*fill: #000000;*/
+}
+
+/* line 601, _svg.scss */
+.icon-caret-right {
+  /*fill: #000000;*/
+}
+
+/* line 604, _svg.scss */
+.icon-columns {
+  /*fill: #000000;*/
+}
+
+/* line 607, _svg.scss */
+.icon-unsorted {
+  /*fill: #000000;*/
+}
+
+/* line 610, _svg.scss */
+.icon-sort-down {
+  /*fill: #000000;*/
+}
+
+/* line 613, _svg.scss */
+.icon-sort-up {
+  /*fill: #000000;*/
+}
+
+/* line 616, _svg.scss */
+.icon-envelope {
+  /*fill: #000000;*/
+}
+
+/* line 619, _svg.scss */
+.icon-linkedin {
+  /*fill: #000000;*/
+}
+
+/* line 622, _svg.scss */
+.icon-rotate-left {
+  /*fill: #000000;*/
+}
+
+/* line 625, _svg.scss */
+.icon-legal {
+  /*fill: #000000;*/
+}
+
+/* line 628, _svg.scss */
+.icon-dashboard {
+  /*fill: #000000;*/
+}
+
+/* line 631, _svg.scss */
+.icon-comment-o {
+  /*fill: #000000;*/
+}
+
+/* line 634, _svg.scss */
+.icon-comments-o {
+  /*fill: #000000;*/
+}
+
+/* line 637, _svg.scss */
+.icon-flash {
+  /*fill: #000000;*/
+}
+
+/* line 640, _svg.scss */
+.icon-sitemap {
+  /*fill: #000000;*/
+}
+
+/* line 643, _svg.scss */
+.icon-umbrella {
+  /*fill: #000000;*/
+}
+
+/* line 646, _svg.scss */
+.icon-paste {
+  /*fill: #000000;*/
+}
+
+/* line 649, _svg.scss */
+.icon-lightbulb-o {
+  /*fill: #000000;*/
+}
+
+/* line 652, _svg.scss */
+.icon-exchange {
+  /*fill: #000000;*/
+}
+
+/* line 655, _svg.scss */
+.icon-cloud-download {
+  /*fill: #000000;*/
+}
+
+/* line 658, _svg.scss */
+.icon-cloud-upload {
+  /*fill: #000000;*/
+}
+
+/* line 661, _svg.scss */
+.icon-user-md {
+  /*fill: #000000;*/
+}
+
+/* line 664, _svg.scss */
+.icon-stethoscope {
+  /*fill: #000000;*/
+}
+
+/* line 667, _svg.scss */
+.icon-suitcase {
+  /*fill: #000000;*/
+}
+
+/* line 670, _svg.scss */
+.icon-bell {
+  /*fill: #000000;*/
+}
+
+/* line 673, _svg.scss */
+.icon-coffee {
+  /*fill: #000000;*/
+}
+
+/* line 676, _svg.scss */
+.icon-cutlery {
+  /*fill: #000000;*/
+}
+
+/* line 679, _svg.scss */
+.icon-file-text-o {
+  /*fill: #000000;*/
+}
+
+/* line 682, _svg.scss */
+.icon-building-o {
+  /*fill: #000000;*/
+}
+
+/* line 685, _svg.scss */
+.icon-hospital-o {
+  /*fill: #000000;*/
+}
+
+/* line 688, _svg.scss */
+.icon-ambulance {
+  /*fill: #000000;*/
+}
+
+/* line 691, _svg.scss */
+.icon-medkit {
+  /*fill: #000000;*/
+}
+
+/* line 694, _svg.scss */
+.icon-fighter-jet {
+  /*fill: #000000;*/
+}
+
+/* line 697, _svg.scss */
+.icon-beer {
+  /*fill: #000000;*/
+}
+
+/* line 700, _svg.scss */
+.icon-h-square {
+  /*fill: #000000;*/
+}
+
+/* line 703, _svg.scss */
+.icon-plus-square {
+  /*fill: #000000;*/
+}
+
+/* line 706, _svg.scss */
+.icon-angle-double-left {
+  /*fill: #000000;*/
+}
+
+/* line 709, _svg.scss */
+.icon-angle-double-right {
+  /*fill: #000000;*/
+}
+
+/* line 712, _svg.scss */
+.icon-angle-double-up {
+  /*fill: #000000;*/
+}
+
+/* line 715, _svg.scss */
+.icon-angle-double-down {
+  /*fill: #000000;*/
+}
+
+/* line 718, _svg.scss */
+.icon-angle-left {
+  /*fill: #000000;*/
+}
+
+/* line 721, _svg.scss */
+.icon-angle-right {
+  /*fill: #000000;*/
+}
+
+/* line 724, _svg.scss */
+.icon-angle-up {
+  /*fill: #000000;*/
+}
+
+/* line 727, _svg.scss */
+.icon-angle-down {
+  /*fill: #000000;*/
+}
+
+/* line 730, _svg.scss */
+.icon-desktop {
+  /*fill: #000000;*/
+}
+
+/* line 733, _svg.scss */
+.icon-laptop {
+  /*fill: #000000;*/
+}
+
+/* line 736, _svg.scss */
+.icon-tablet {
+  /*fill: #000000;*/
+}
+
+/* line 739, _svg.scss */
+.icon-mobile-phone {
+  /*fill: #000000;*/
+}
+
+/* line 742, _svg.scss */
+.icon-circle-o {
+  /*fill: #000000;*/
+}
+
+/* line 745, _svg.scss */
+.icon-quote-left {
+  /*fill: #000000;*/
+}
+
+/* line 748, _svg.scss */
+.icon-quote-right {
+  /*fill: #000000;*/
+}
+
+/* line 751, _svg.scss */
+.icon-spinner {
+  /*fill: #000000;*/
+}
+
+/* line 754, _svg.scss */
+.icon-circle {
+  /*fill: #000000;*/
+}
+
+/* line 757, _svg.scss */
+.icon-mail-reply {
+  /*fill: #000000;*/
+}
+
+/* line 760, _svg.scss */
+.icon-github-alt {
+  /*fill: #000000;*/
+}
+
+/* line 763, _svg.scss */
+.icon-folder-o {
+  /*fill: #000000;*/
+}
+
+/* line 766, _svg.scss */
+.icon-folder-open-o {
+  /*fill: #000000;*/
+}
+
+/* line 769, _svg.scss */
+.icon-smile-o {
+  /*fill: #000000;*/
+}
+
+/* line 772, _svg.scss */
+.icon-frown-o {
+  /*fill: #000000;*/
+}
+
+/* line 775, _svg.scss */
+.icon-meh-o {
+  /*fill: #000000;*/
+}
+
+/* line 778, _svg.scss */
+.icon-gamepad {
+  /*fill: #000000;*/
+}
+
+/* line 781, _svg.scss */
+.icon-keyboard-o {
+  /*fill: #000000;*/
+}
+
+/* line 784, _svg.scss */
+.icon-flag-o {
+  /*fill: #000000;*/
+}
+
+/* line 787, _svg.scss */
+.icon-flag-checkered {
+  /*fill: #000000;*/
+}
+
+/* line 790, _svg.scss */
+.icon-terminal {
+  /*fill: #000000;*/
+}
+
+/* line 793, _svg.scss */
+.icon-code {
+  /*fill: #000000;*/
+}
+
+/* line 796, _svg.scss */
+.icon-mail-reply-all {
+  /*fill: #000000;*/
+}
+
+/* line 799, _svg.scss */
+.icon-star-half-empty {
+  /*fill: #000000;*/
+}
+
+/* line 802, _svg.scss */
+.icon-location-arrow {
+  /*fill: #000000;*/
+}
+
+/* line 805, _svg.scss */
+.icon-crop {
+  /*fill: #000000;*/
+}
+
+/* line 808, _svg.scss */
+.icon-code-fork {
+  /*fill: #000000;*/
+}
+
+/* line 811, _svg.scss */
+.icon-unlink {
+  /*fill: #000000;*/
+}
+
+/* line 814, _svg.scss */
+.icon-question {
+  /*fill: #000000;*/
+}
+
+/* line 817, _svg.scss */
+.icon-info {
+  /*fill: #000000;*/
+}
+
+/* line 820, _svg.scss */
+.icon-exclamation {
+  /*fill: #000000;*/
+}
+
+/* line 823, _svg.scss */
+.icon-superscript {
+  /*fill: #000000;*/
+}
+
+/* line 826, _svg.scss */
+.icon-subscript {
+  /*fill: #000000;*/
+}
+
+/* line 829, _svg.scss */
+.icon-eraser {
+  /*fill: #000000;*/
+}
+
+/* line 832, _svg.scss */
+.icon-puzzle-piece {
+  /*fill: #000000;*/
+}
+
+/* line 835, _svg.scss */
+.icon-microphone {
+  /*fill: #000000;*/
+}
+
+/* line 838, _svg.scss */
+.icon-microphone-slash {
+  /*fill: #000000;*/
+}
+
+/* line 841, _svg.scss */
+.icon-shield {
+  /*fill: #000000;*/
+}
+
+/* line 844, _svg.scss */
+.icon-calendar-o {
+  /*fill: #000000;*/
+}
+
+/* line 847, _svg.scss */
+.icon-fire-extinguisher {
+  /*fill: #000000;*/
+}
+
+/* line 850, _svg.scss */
+.icon-rocket {
+  /*fill: #000000;*/
+}
+
+/* line 853, _svg.scss */
+.icon-maxcdn {
+  /*fill: #000000;*/
+}
+
+/* line 856, _svg.scss */
+.icon-chevron-circle-left {
+  /*fill: #000000;*/
+}
+
+/* line 859, _svg.scss */
+.icon-chevron-circle-right {
+  /*fill: #000000;*/
+}
+
+/* line 862, _svg.scss */
+.icon-chevron-circle-up {
+  /*fill: #000000;*/
+}
+
+/* line 865, _svg.scss */
+.icon-chevron-circle-down {
+  /*fill: #000000;*/
+}
+
+/* line 868, _svg.scss */
+.icon-html5 {
+  /*fill: #000000;*/
+}
+
+/* line 871, _svg.scss */
+.icon-css3 {
+  /*fill: #000000;*/
+}
+
+/* line 874, _svg.scss */
+.icon-anchor {
+  /*fill: #000000;*/
+}
+
+/* line 877, _svg.scss */
+.icon-unlock-alt {
+  /*fill: #000000;*/
+}
+
+/* line 880, _svg.scss */
+.icon-bullseye {
+  /*fill: #000000;*/
+}
+
+/* line 883, _svg.scss */
+.icon-ellipsis-h {
+  /*fill: #000000;*/
+}
+
+/* line 886, _svg.scss */
+.icon-ellipsis-v {
+  /*fill: #000000;*/
+}
+
+/* line 889, _svg.scss */
+.icon-rss-square {
+  /*fill: #000000;*/
+}
+
+/* line 892, _svg.scss */
+.icon-play-circle {
+  /*fill: #000000;*/
+}
+
+/* line 895, _svg.scss */
+.icon-ticket {
+  /*fill: #000000;*/
+}
+
+/* line 898, _svg.scss */
+.icon-minus-square {
+  /*fill: #000000;*/
+}
+
+/* line 901, _svg.scss */
+.icon-minus-square-o {
+  /*fill: #000000;*/
+}
+
+/* line 904, _svg.scss */
+.icon-level-up {
+  /*fill: #000000;*/
+}
+
+/* line 907, _svg.scss */
+.icon-level-down {
+  /*fill: #000000;*/
+}
+
+/* line 910, _svg.scss */
+.icon-check-square {
+  /*fill: #000000;*/
+}
+
+/* line 913, _svg.scss */
+.icon-pencil-square {
+  /*fill: #000000;*/
+}
+
+/* line 916, _svg.scss */
+.icon-external-link-square {
+  /*fill: #000000;*/
+}
+
+/* line 919, _svg.scss */
+.icon-share-square {
+  /*fill: #000000;*/
+}
+
+/* line 922, _svg.scss */
+.icon-compass {
+  /*fill: #000000;*/
+}
+
+/* line 925, _svg.scss */
+.icon-toggle-down {
+  /*fill: #000000;*/
+}
+
+/* line 928, _svg.scss */
+.icon-toggle-up {
+  /*fill: #000000;*/
+}
+
+/* line 931, _svg.scss */
+.icon-toggle-right {
+  /*fill: #000000;*/
+}
+
+/* line 934, _svg.scss */
+.icon-euro {
+  /*fill: #000000;*/
+}
+
+/* line 937, _svg.scss */
+.icon-gbp {
+  /*fill: #000000;*/
+}
+
+/* line 940, _svg.scss */
+.icon-dollar {
+  /*fill: #000000;*/
+}
+
+/* line 943, _svg.scss */
+.icon-rupee {
+  /*fill: #000000;*/
+}
+
+/* line 946, _svg.scss */
+.icon-cny {
+  /*fill: #000000;*/
+}
+
+/* line 949, _svg.scss */
+.icon-ruble {
+  /*fill: #000000;*/
+}
+
+/* line 952, _svg.scss */
+.icon-won {
+  /*fill: #000000;*/
+}
+
+/* line 955, _svg.scss */
+.icon-bitcoin {
+  /*fill: #000000;*/
+}
+
+/* line 958, _svg.scss */
+.icon-file {
+  /*fill: #000000;*/
+}
+
+/* line 961, _svg.scss */
+.icon-file-text {
+  /*fill: #000000;*/
+}
+
+/* line 964, _svg.scss */
+.icon-sort-alpha-asc {
+  /*fill: #000000;*/
+}
+
+/* line 967, _svg.scss */
+.icon-sort-alpha-desc {
+  /*fill: #000000;*/
+}
+
+/* line 970, _svg.scss */
+.icon-sort-amount-asc {
+  /*fill: #000000;*/
+}
+
+/* line 973, _svg.scss */
+.icon-sort-amount-desc {
+  /*fill: #000000;*/
+}
+
+/* line 976, _svg.scss */
+.icon-sort-numeric-asc {
+  /*fill: #000000;*/
+}
+
+/* line 979, _svg.scss */
+.icon-sort-numeric-desc {
+  /*fill: #000000;*/
+}
+
+/* line 982, _svg.scss */
+.icon-thumbs-up {
+  /*fill: #000000;*/
+}
+
+/* line 985, _svg.scss */
+.icon-thumbs-down {
+  /*fill: #000000;*/
+}
+
+/* line 988, _svg.scss */
+.icon-youtube-square {
+  /*fill: #000000;*/
+}
+
+/* line 991, _svg.scss */
+.icon-youtube {
+  /*fill: #000000;*/
+}
+
+/* line 994, _svg.scss */
+.icon-xing {
+  /*fill: #000000;*/
+}
+
+/* line 997, _svg.scss */
+.icon-xing-square {
+  /*fill: #000000;*/
+}
+
+/* line 1000, _svg.scss */
+.icon-youtube-play {
+  /*fill: #000000;*/
+}
+
+/* line 1003, _svg.scss */
+.icon-dropbox {
+  /*fill: #000000;*/
+}
+
+/* line 1006, _svg.scss */
+.icon-stack-overflow {
+  /*fill: #000000;*/
+}
+
+/* line 1009, _svg.scss */
+.icon-instagram {
+  /*fill: #000000;*/
+}
+
+/* line 1012, _svg.scss */
+.icon-flickr {
+  /*fill: #000000;*/
+}
+
+/* line 1015, _svg.scss */
+.icon-adn {
+  /*fill: #000000;*/
+}
+
+/* line 1018, _svg.scss */
+.icon-bitbucket {
+  /*fill: #000000;*/
+}
+
+/* line 1021, _svg.scss */
+.icon-bitbucket-square {
+  /*fill: #000000;*/
+}
+
+/* line 1024, _svg.scss */
+.icon-tumblr {
+  /*fill: #000000;*/
+}
+
+/* line 1027, _svg.scss */
+.icon-tumblr-square {
+  /*fill: #000000;*/
+}
+
+/* line 1030, _svg.scss */
+.icon-long-arrow-down {
+  /*fill: #000000;*/
+}
+
+/* line 1033, _svg.scss */
+.icon-long-arrow-up {
+  /*fill: #000000;*/
+}
+
+/* line 1036, _svg.scss */
+.icon-long-arrow-left {
+  /*fill: #000000;*/
+}
+
+/* line 1039, _svg.scss */
+.icon-long-arrow-right {
+  /*fill: #000000;*/
+}
+
+/* line 1042, _svg.scss */
+.icon-apple {
+  /*fill: #000000;*/
+}
+
+/* line 1045, _svg.scss */
+.icon-windows {
+  /*fill: #000000;*/
+}
+
+/* line 1048, _svg.scss */
+.icon-android {
+  /*fill: #000000;*/
+}
+
+/* line 1051, _svg.scss */
+.icon-linux {
+  /*fill: #000000;*/
+}
+
+/* line 1054, _svg.scss */
+.icon-dribbble {
+  /*fill: #000000;*/
+}
+
+/* line 1057, _svg.scss */
+.icon-skype {
+  /*fill: #000000;*/
+}
+
+/* line 1060, _svg.scss */
+.icon-foursquare {
+  /*fill: #000000;*/
+}
+
+/* line 1063, _svg.scss */
+.icon-trello {
+  /*fill: #000000;*/
+}
+
+/* line 1066, _svg.scss */
+.icon-female {
+  /*fill: #000000;*/
+}
+
+/* line 1069, _svg.scss */
+.icon-male {
+  /*fill: #000000;*/
+}
+
+/* line 1072, _svg.scss */
+.icon-gittip {
+  /*fill: #000000;*/
+}
+
+/* line 1075, _svg.scss */
+.icon-sun-o {
+  /*fill: #000000;*/
+}
+
+/* line 1078, _svg.scss */
+.icon-moon-o {
+  /*fill: #000000;*/
+}
+
+/* line 1081, _svg.scss */
+.icon-archive {
+  /*fill: #000000;*/
+}
+
+/* line 1084, _svg.scss */
+.icon-bug {
+  /*fill: #000000;*/
+}
+
+/* line 1087, _svg.scss */
+.icon-vk {
+  /*fill: #000000;*/
+}
+
+/* line 1090, _svg.scss */
+.icon-weibo {
+  /*fill: #000000;*/
+}
+
+/* line 1093, _svg.scss */
+.icon-renren {
+  /*fill: #000000;*/
+}
+
+/* line 1096, _svg.scss */
+.icon-pagelines {
+  /*fill: #000000;*/
+}
+
+/* line 1099, _svg.scss */
+.icon-stack-exchange {
+  /*fill: #000000;*/
+}
+
+/* line 1102, _svg.scss */
+.icon-arrow-circle-o-right {
+  /*fill: #000000;*/
+}
+
+/* line 1105, _svg.scss */
+.icon-arrow-circle-o-left {
+  /*fill: #000000;*/
+}
+
+/* line 1108, _svg.scss */
+.icon-toggle-left {
+  /*fill: #000000;*/
+}
+
+/* line 1111, _svg.scss */
+.icon-dot-circle-o {
+  /*fill: #000000;*/
+}
+
+/* line 1114, _svg.scss */
+.icon-wheelchair {
+  /*fill: #000000;*/
+}
+
+/* line 1117, _svg.scss */
+.icon-vimeo-square {
+  /*fill: #000000;*/
+}
+
+/* line 1120, _svg.scss */
+.icon-turkish-lira {
+  /*fill: #000000;*/
+}
+
+/* line 1123, _svg.scss */
+.icon-plus-square-o {
+  /*fill: #000000;*/
+}
+
+/* line 1126, _svg.scss */
+.icon-space-shuttle {
+  /*fill: #000000;*/
+}
+
+/* line 1129, _svg.scss */
+.icon-slack {
+  /*fill: #000000;*/
+}
+
+/* line 1132, _svg.scss */
+.icon-envelope-square {
+  /*fill: #000000;*/
+}
+
+/* line 1135, _svg.scss */
+.icon-wordpress {
+  /*fill: #000000;*/
+}
+
+/* line 1138, _svg.scss */
+.icon-openid {
+  /*fill: #000000;*/
+}
+
+/* line 1141, _svg.scss */
+.icon-institution {
+  /*fill: #000000;*/
+}
+
+/* line 1144, _svg.scss */
+.icon-mortar-board {
+  /*fill: #000000;*/
+}
+
+/* line 1147, _svg.scss */
+.icon-yahoo {
+  /*fill: #000000;*/
+}
+
+/* line 1150, _svg.scss */
+.icon-google {
+  /*fill: #000000;*/
+}
+
+/* line 1153, _svg.scss */
+.icon-reddit {
+  /*fill: #000000;*/
+}
+
+/* line 1156, _svg.scss */
+.icon-reddit-square {
+  /*fill: #000000;*/
+}
+
+/* line 1159, _svg.scss */
+.icon-stumbleupon-circle {
+  /*fill: #000000;*/
+}
+
+/* line 1162, _svg.scss */
+.icon-stumbleupon {
+  /*fill: #000000;*/
+}
+
+/* line 1165, _svg.scss */
+.icon-delicious {
+  /*fill: #000000;*/
+}
+
+/* line 1168, _svg.scss */
+.icon-digg {
+  /*fill: #000000;*/
+}
+
+/* line 1171, _svg.scss */
+.icon-pied-piper-square {
+  /*fill: #000000;*/
+}
+
+/* line 1174, _svg.scss */
+.icon-pied-piper-alt {
+  /*fill: #000000;*/
+}
+
+/* line 1177, _svg.scss */
+.icon-drupal {
+  /*fill: #000000;*/
+}
+
+/* line 1180, _svg.scss */
+.icon-joomla {
+  /*fill: #000000;*/
+}
+
+/* line 1183, _svg.scss */
+.icon-language {
+  /*fill: #000000;*/
+}
+
+/* line 1186, _svg.scss */
+.icon-fax {
+  /*fill: #000000;*/
+}
+
+/* line 1189, _svg.scss */
+.icon-building {
+  /*fill: #000000;*/
+}
+
+/* line 1192, _svg.scss */
+.icon-child {
+  /*fill: #000000;*/
+}
+
+/* line 1195, _svg.scss */
+.icon-paw {
+  /*fill: #000000;*/
+}
+
+/* line 1198, _svg.scss */
+.icon-spoon {
+  /*fill: #000000;*/
+}
+
+/* line 1201, _svg.scss */
+.icon-cube {
+  /*fill: #000000;*/
+}
+
+/* line 1204, _svg.scss */
+.icon-cubes {
+  /*fill: #000000;*/
+}
+
+/* line 1207, _svg.scss */
+.icon-behance {
+  /*fill: #000000;*/
+}
+
+/* line 1210, _svg.scss */
+.icon-behance-square {
+  /*fill: #000000;*/
+}
+
+/* line 1213, _svg.scss */
+.icon-steam {
+  /*fill: #000000;*/
+}
+
+/* line 1216, _svg.scss */
+.icon-steam-square {
+  /*fill: #000000;*/
+}
+
+/* line 1219, _svg.scss */
+.icon-recycle {
+  /*fill: #000000;*/
+}
+
+/* line 1222, _svg.scss */
+.icon-automobile {
+  /*fill: #000000;*/
+}
+
+/* line 1225, _svg.scss */
+.icon-cab {
+  /*fill: #000000;*/
+}
+
+/* line 1228, _svg.scss */
+.icon-tree {
+  /*fill: #000000;*/
+}
+
+/* line 1231, _svg.scss */
+.icon-spotify {
+  /*fill: #000000;*/
+}
+
+/* line 1234, _svg.scss */
+.icon-deviantart {
+  /*fill: #000000;*/
+}
+
+/* line 1237, _svg.scss */
+.icon-soundcloud {
+  /*fill: #000000;*/
+}
+
+/* line 1240, _svg.scss */
+.icon-database {
+  /*fill: #000000;*/
+}
+
+/* line 1243, _svg.scss */
+.icon-file-pdf-o {
+  /*fill: #000000;*/
+}
+
+/* line 1246, _svg.scss */
+.icon-file-word-o {
+  /*fill: #000000;*/
+}
+
+/* line 1249, _svg.scss */
+.icon-file-excel-o {
+  /*fill: #000000;*/
+}
+
+/* line 1252, _svg.scss */
+.icon-file-powerpoint-o {
+  /*fill: #000000;*/
+}
+
+/* line 1255, _svg.scss */
+.icon-file-photo-o {
+  /*fill: #000000;*/
+}
+
+/* line 1258, _svg.scss */
+.icon-file-zip-o {
+  /*fill: #000000;*/
+}
+
+/* line 1261, _svg.scss */
+.icon-file-sound-o {
+  /*fill: #000000;*/
+}
+
+/* line 1264, _svg.scss */
+.icon-file-movie-o {
+  /*fill: #000000;*/
+}
+
+/* line 1267, _svg.scss */
+.icon-file-code-o {
+  /*fill: #000000;*/
+}
+
+/* line 1270, _svg.scss */
+.icon-vine {
+  /*fill: #000000;*/
+}
+
+/* line 1273, _svg.scss */
+.icon-codepen {
+  /*fill: #000000;*/
+}
+
+/* line 1276, _svg.scss */
+.icon-jsfiddle {
+  /*fill: #000000;*/
+}
+
+/* line 1279, _svg.scss */
+.icon-life-bouy {
+  /*fill: #000000;*/
+}
+
+/* line 1282, _svg.scss */
+.icon-circle-o-notch {
+  /*fill: #000000;*/
+}
+
+/* line 1285, _svg.scss */
+.icon-ra {
+  /*fill: #000000;*/
+}
+
+/* line 1288, _svg.scss */
+.icon-ge {
+  /*fill: #000000;*/
+}
+
+/* line 1291, _svg.scss */
+.icon-git-square {
+  /*fill: #000000;*/
+}
+
+/* line 1294, _svg.scss */
+.icon-git {
+  /*fill: #000000;*/
+}
+
+/* line 1297, _svg.scss */
+.icon-hacker-news {
+  /*fill: #000000;*/
+}
+
+/* line 1300, _svg.scss */
+.icon-tencent-weibo {
+  /*fill: #000000;*/
+}
+
+/* line 1303, _svg.scss */
+.icon-qq {
+  /*fill: #000000;*/
+}
+
+/* line 1306, _svg.scss */
+.icon-wechat {
+  /*fill: #000000;*/
+}
+
+/* line 1309, _svg.scss */
+.icon-send {
+  /*fill: #000000;*/
+}
+
+/* line 1312, _svg.scss */
+.icon-send-o {
+  /*fill: #000000;*/
+}
+
+/* line 1315, _svg.scss */
+.icon-history {
+  /*fill: #000000;*/
+}
+
+/* line 1318, _svg.scss */
+.icon-circle-thin {
+  /*fill: #000000;*/
+}
+
+/* line 1321, _svg.scss */
+.icon-header {
+  /*fill: #000000;*/
+}
+
+/* line 1324, _svg.scss */
+.icon-paragraph {
+  /*fill: #000000;*/
+}
+
+/* line 1327, _svg.scss */
+.icon-sliders {
+  /*fill: #000000;*/
+}
+
+/* line 1330, _svg.scss */
+.icon-share-alt {
+  /*fill: #000000;*/
+}
+
+/* line 1333, _svg.scss */
+.icon-share-alt-square {
+  /*fill: #000000;*/
+}
+
+/* line 1336, _svg.scss */
+.icon-bomb {
+  /*fill: #000000;*/
+}
+
 /* Open Sans 300(light),400(regular),800(heavy) */
-/* line 5, css.scss */
+/* line 6, css.scss */
 * {
   box-sizing: border-box;
 }
 
-/* line 6, css.scss */
+/* line 7, css.scss */
 html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-}
-
-/* line 15, css.scss */
-body {
-  padding: 100px 50px;
-  background: white;
-}
-
-/* line 19, css.scss */
-.box {
-  width: 100px;
-  height: 114px;
-  display: inline-block;
-  position: relative;
-  margin-right: 5px;
-}
-/* line 25, css.scss */
-.box .color {
-  width: 100px;
-  height: 14px;
-  background: white;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-  text-align: center;
-  font: 300 10px/14px 'open sans', sans-serif;
-  color: #404040;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-}
-
-/* line 40, css.scss */
-.wrap:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* line 47, css.scss */
-.replace {
-  margin-left: 75px;
-}
-
-/* line 50, css.scss */
-h6 {
-  margin-left: 75px;
 }
